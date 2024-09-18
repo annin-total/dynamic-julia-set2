@@ -1,1 +1,0 @@
-# dynamic-julia-set2
